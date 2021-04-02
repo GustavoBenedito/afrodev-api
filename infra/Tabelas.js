@@ -16,4 +16,4 @@ class Tabelas {
         });
     };
 };
-module.exports = new Tabelas;
+module.exports = new Tabelas();

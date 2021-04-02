@@ -49,4 +49,4 @@ class Agendamento{
     } 
 }
 
-module.exports = new Agendamento
+module.exports = new Agendamento();
